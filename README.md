@@ -1,7 +1,10 @@
 # ckmishra1993-github.com
 #### Data Engineer
 
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB, ETL, Airflow, Informatica, Teradata, Unix, Data Warehousing
+#### Technical Skills:
+- Languages: Python, C, Unix, Scala, JavaScript, Java, SQL, MATLAB, HTML/CSS
+- Databases/Tools: Teradata, SQL Server, MySQL, NoSQL, AWS, Postgres, Informatica, ScheduleIN, TWF
+- Technologies/Frameworks: Data Warehousing, Airflow, Informatica, GitHub, GCP (GCS, Dataproc, Cloud Functions), ETL
 
 ## Education
 - M.S., Data Science	| University at Buffalo (_January 2023_ - _May 2024_)	 			        		
@@ -10,7 +13,7 @@
 ## Work Experience
 **Immediate Analyst @ CitiBank (_Jan 2022_ - _Dec 2022_)**
 - Built a subledger system application from scratch so as to get data from different sources and reduced accounting entries based on GAAP and generated reports in compliance to FASB and regulatory rules
-- -	Optimized the performance of queries, by going through the DBQLs and explaining plan , which reduced the CPU time by 40% 
+- Optimized the performance of queries, by going through the DBQLs and explaining plan , which reduced the CPU time by 40% 
 
 **Senior Technical Consultant @ Teradata (_Feb 2017_ - _Jan 2022_)**
 -	Developed the new requirements in the Informatica & UNIX Shell Scripts, providing the data to downstream applications and monitoring the data loads & production support queries 
@@ -23,7 +26,8 @@
 -	Mentored over 5 engineers (2 summer interns converted to return offer, 1 SDE1 and 1 new DE) in last 4 years.
 
 ## Projects
-![bank](Bank.jpeg)
+![bank](Bank.jpg)
+
 **OTC Citibank(Unix, java, python, Sybase, Mssql) Jan 2022 - Dec 2022**
 -	Developed new requirements/API in python as required by the new sub ledger system to feed the data into the database. Migrated the conventional system from Sybase to Oracle and MSSql
 
@@ -43,5 +47,12 @@
 **Fake news classification (python, ML) Oct 2023 - Nov 2023**
 - Built a model to classify news on Fake and Real news. Text preprocessing included handling null/missing values, encoding categorical data, converting uppercase to lowercase, removing numbers, tokenization, and applying stop word removal, stemming, and lemmatization. TF-IDF was employed for feature engineering, and the processed text was fed into machine learning models for prediction.
 
+**Extra Curriculars**
+-National level certificate in acting, presented as General Secretary at college fest, singing on stages, making short movies
+-Taught courses on Data warehousing and Teradata architecture to new joiners
 
+**Certifications and Awards**
+
+- Teradata 14
+- Azure AZ900
 
