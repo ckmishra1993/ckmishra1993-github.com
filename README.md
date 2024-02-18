@@ -23,6 +23,7 @@
 -	Mentored over 5 engineers (2 summer interns converted to return offer, 1 SDE1 and 1 new DE) in last 4 years.
 
 ## Projects
+![bank](Bank.jpeg)
 **OTC Citibank(Unix, java, python, Sybase, Mssql) Jan 2022 - Dec 2022**
 -	Developed new requirements/API in python as required by the new sub ledger system to feed the data into the database. Migrated the conventional system from Sybase to Oracle and MSSql
 
