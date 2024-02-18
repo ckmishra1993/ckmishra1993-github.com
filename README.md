@@ -48,7 +48,9 @@
 - Built a model to classify news on Fake and Real news. Text preprocessing included handling null/missing values, encoding categorical data, converting uppercase to lowercase, removing numbers, tokenization, and applying stop word removal, stemming, and lemmatization. TF-IDF was employed for feature engineering, and the processed text was fed into machine learning models for prediction.
 
 **Extra Curriculars**
+
 -National level certificate in acting, presented as General Secretary at college fest, singing on stages, making short movies
+
 -Taught courses on Data warehousing and Teradata architecture to new joiners
 
 **Certifications and Awards**
